@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angappp": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angappp"
+    }
+  },
+  "defaultProject": "angappp",
+  "cli": {
+    "analytics": "f6fdd131-f558-4ffd-8d2d-157dcfbb7c5a"
+  }
 }
